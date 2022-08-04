@@ -33,12 +33,6 @@ body{height: 100%;
     align-items: stretch;
 }
 
-.navigation ul { 
-    margin left: 25em;
-    padding: 0;
-    list-style: ;
-}
-
 .navigation ul li {
     display: inline-block;
 }
